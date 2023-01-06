@@ -16,6 +16,7 @@
     "express": "^4.18.1",
     "mongoose": "^6.5.3"
   },
+  "type": "module",
   "devDependencies": {
     "@babel/cli": "^7.18.10",
     "@babel/core": "^7.18.13",
